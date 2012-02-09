@@ -1,0 +1,119 @@
+everything connected
+
+he showed something that had a "life sketch"
+
+also facebook integration.
+
+the cool fan thing looks nice...but what else does it do for you?
+
+Huff method assignment seems fascinating...maybe a note "full double checked" could be added...
+
+"checkout" an ancestor, then verify them...
+
+can google people to find "stuff" about people online.
+history of where they came from, churches where they went pictures online.
+
+history of yourself.
+
+his uncles too...
+
+
+Sharing Time:
+easy "separate"
+can search straight into record search
+
+crawler, update page only updates when you login basically.
+extract emails of contributors
+
+basically local index them
+
+can add "events" hmm...editable though?
+  auto-upload to dropbox? :)
+
+
+timeline-y
+
+"conglom of places" [?]
+
+
+super duper search (either "you in windows" or me poll :P )
+
+zoom out
+funky tree like structure.
+
+events is how they like it...
+
+quick intermarrage list....
+fascinating.
+
+
+concentration by geography (?)
+
+
+
+being able to search "within" anywhere...text too.
+
+strong color for people "in progress"
+
+
+
+index collections/free collections that you can search/look at...
+  API's for pay stuff for the same?
+  may be too many still...indexing every parish collection? hmm...
+  would be fun to write the SQL queries though! :p
+  and of course wiki pages etc.
+
+timeline?
+
+integrate with facebook timeline LOL.
+
+can "link" with real people via facebook LOL.
+
+associate with youtube's LOL.
+  actually of places...that might work...videos of places...videos of gravestones? :P
+  discovery/history channel things that are "for there"
+
+The awesome "scroll ing picture video timeline LOL"
+
+
+show where they were from census via a map...
+
+color change, size, orientation, flicker, 
+
+HTML5 seems to be replacing flash. phew! :P
+
+jquery?
+
+open source visualization jquery plugins...
+
+
+super duper chart printer with pictures somehow [?]
+
+dropbox have an api?
+
+the ideas from 20 second seem awesome.  other winners in there?
+  @them: open source it :P
+  interfacing with api's seems...interesting...
+
+being able to know "oh here are all the various collections that might be useful" or maybe they have api's that we can use?
+
+
+most useful commmercial tihng make an open source alternative LOL.
+
+could pay somebody to "index" all of those collections by...latitude and longitude and time LOL.
+  index data that's "just there" too LOL. Not found yet. whoa!  what?!
+
+could have the "zoom in zoom out" thing but for new familysearch.  Oh man people might really like that.
+
+20 minute genealogy but it can expand LOL.
+
+
+
+search for "things you could find close to home"
+
+@new familysearch: allow for free form text events [?]
+
+
+some tree'ish thing (geography map) for your ancestors....this might help with planning a trip, too :P
+
+ship stuff etc.
